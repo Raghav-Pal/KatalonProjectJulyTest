@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test2_RecordingInIE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d649fb1a-68b6-4d24-beab-59cb55e55fba</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>0d2fa4bb-0d03-4832-b854-afff64ab33fa</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>0065fcc8-9d9c-495a-8b25-bbf77e6a513e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
